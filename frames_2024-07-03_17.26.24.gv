@@ -1,0 +1,7 @@
+digraph G {
+"world" -> "cf1"[label=" Broadcaster: default_authority\nAverage rate: 20.216\nBuffer length: 4.996\nMost recent transform: 1720007784.701404\nOldest transform: 1720007779.705356\n"];
+edge [style=invis];
+ subgraph cluster_legend { style=bold; color=black; label ="view_frames Result";
+"Recorded at time: 1720007784.7046807"[ shape=plaintext ] ;
+}->"world";
+}

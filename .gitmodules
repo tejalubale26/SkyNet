@@ -1,0 +1,12 @@
+[submodule "ros_ws"]
+	path = ros_ws
+	url = git@github.com:Adyansh04/SkyNet-ROS2.git
+[submodule "tello-ws"]
+	path = tello-ws
+	url = git@github.com:Adyansh04/TelloEDU-ROS2.git
+[submodule "ros_ws/src"]
+	path = ros_ws/src
+	url = git@github.com:Adyansh04/SkyNet-ROS2.git
+[submodule "tello-ws/src"]
+	path = tello-ws/src
+	url = git@github.com:Adyansh04/TelloEDU-ROS2.git
