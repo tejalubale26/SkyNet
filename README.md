@@ -1,4 +1,4 @@
-<img width="635" height="450" alt="image" src="https://github.com/user-attachments/assets/60fb8c96-3380-423c-b7b4-9febf337c93f" />
+<img width="835" height="450" alt="image" src="https://github.com/user-attachments/assets/60fb8c96-3380-423c-b7b4-9febf337c93f" />
 
 
 # **SkyNet – Autonomous Drone System for Indoor Navigation, Object Detection & ArUco-Based Inventory Management (ROS2)**
@@ -52,7 +52,7 @@ SkyNet addresses modern industry needs for **autonomous warehouse operations**, 
 
 Used for mapping, SLAM, autonomous flight, and obstacle avoidance.
 
-<img width="585" height="585" alt="image" src="https://github.com/user-attachments/assets/3a3e4d41-dcf6-40cc-85c1-7b7b9ce71b38" />
+<img width="585" height="485" alt="image" src="https://github.com/user-attachments/assets/3a3e4d41-dcf6-40cc-85c1-7b7b9ce71b38" />
 
 
 ### **Tello EDU**
