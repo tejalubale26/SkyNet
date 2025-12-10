@@ -1,4 +1,4 @@
-<img width="535" height="350" alt="image" src="https://github.com/user-attachments/assets/60fb8c96-3380-423c-b7b4-9febf337c93f" />
+<img width="635" height="450" alt="image" src="https://github.com/user-attachments/assets/60fb8c96-3380-423c-b7b4-9febf337c93f" />
 
 
 # **SkyNet – Autonomous Drone System for Indoor Navigation, Object Detection & ArUco-Based Inventory Management (ROS2)**
@@ -61,7 +61,7 @@ Used for image-based tasks such as YOLOv8 object detection, face recognition, an
 
 The unified ROS2-based architecture enables reliable, modular, and scalable autonomous drone operation.
 
-<img width="350" height="229" alt="image" src="https://github.com/user-attachments/assets/b76f40ce-d474-4c7b-b705-a10da6cbb8a8" />
+<img width="550" height="429" alt="image" src="https://github.com/user-attachments/assets/b76f40ce-d474-4c7b-b705-a10da6cbb8a8" />
 
 
 ---
@@ -282,7 +282,7 @@ The unified ROS2-based architecture enables reliable, modular, and scalable auto
 
 ## **16. References**
 
-All 30+ references from IEEE, MDPI, ResearchGate, Diva Portal included (extracted from report & PPT).
+All 30+ references from IEEE, MDPI, ResearchGate, Diva Portal included.
 
 ---
 
