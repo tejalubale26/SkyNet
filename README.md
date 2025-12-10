@@ -1,3 +1,4 @@
+<img width="535" height="350" alt="image" src="https://github.com/user-attachments/assets/60fb8c96-3380-423c-b7b4-9febf337c93f" />
 
 
 # **SkyNet – Autonomous Drone System for Indoor Navigation, Object Detection & ArUco-Based Inventory Management (ROS2)**
@@ -51,11 +52,17 @@ SkyNet addresses modern industry needs for **autonomous warehouse operations**, 
 
 Used for mapping, SLAM, autonomous flight, and obstacle avoidance.
 
+<img width="585" height="585" alt="image" src="https://github.com/user-attachments/assets/3a3e4d41-dcf6-40cc-85c1-7b7b9ce71b38" />
+
+
 ### **Tello EDU**
 
 Used for image-based tasks such as YOLOv8 object detection, face recognition, and ArUco-based inventory scanning.
 
 The unified ROS2-based architecture enables reliable, modular, and scalable autonomous drone operation.
+
+<img width="350" height="229" alt="image" src="https://github.com/user-attachments/assets/b76f40ce-d474-4c7b-b705-a10da6cbb8a8" />
+
 
 ---
 
@@ -253,14 +260,8 @@ The unified ROS2-based architecture enables reliable, modular, and scalable auto
 
 ## **14. Project Schedule – Gantt Summary**
 
-(Extracted from the provided Gantt chart)
+<img width="1220" height="588" alt="image" src="https://github.com/user-attachments/assets/1c8a6f4c-7c8d-4fb5-ad0b-c7e0c9e095b2" />
 
-* Brainstorming: 20–22 June
-* Drone assembly & setup: 20–27 June
-* Face detection dataset + training: 21–28 June
-* AI Deck integration: 1–8 July
-* Autonomous Navigation: 9–24 July
-* Documentation: 25–27 July
 
 ---
 
@@ -276,9 +277,6 @@ The unified ROS2-based architecture enables reliable, modular, and scalable auto
 * Crazyradio PA
 * Tello EDU
 
-### **Installation Steps**
-
-(You can include commands inside the repository.)
 
 ---
 
